@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "f6359aa5-6489-4d25-a1ce-cb8c2c3b949d",
+		"name": "Proyecto bootcamp cursos",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "40762680"
+	},
+	"item": [
+		{
+			"name": "Bootcamp React",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Bootcamp Desarrollo web full stack",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Bootcamp Big data",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
